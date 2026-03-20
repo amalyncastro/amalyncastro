@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey, I'm Amalyn Castro 👋
 
-<!--
-**amalyncastro/amalyncastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate at Northwestern University studying Cognitive Science with a concentration in AI.
 
-Here are some ideas to get you started:
+I started in computer science, and somewhere along the way I got more interested in the _why_ behind how people think, learn, and interact with technology and not just the how of building it. So I switched. Still figuring out exactly where that takes me, but the intersection of human cognition and AI is where I want to be.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working with
+- **Languages:** Python, R, C++, C
+- **Currently Learning:** Cognitive science fundamentals, how the brain inspires AI systems, artifical intelligence fundamentals, and the basics of human-centered design.
+
+
+## How to reach me
+- 📍 Chicago, IL & Evanston, IL
+- 📎 www.linkedin.com/in/amalynicastro
+- 📫 amalynicastro@gmail.com or amalyncastro2027@u.northwestern.edu
